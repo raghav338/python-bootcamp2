@@ -8,4 +8,6 @@ c=str(a)
 print(type(c))
 print(c)
 
-
+d=int(c)
+print(type(d))
+print(d)
